@@ -123,7 +123,7 @@ I) Opinar sobre matérias de sua competência que a Diretoria lhe submeter.
 
 **§ 1°**. A nomeação dos membros dar-se-á pela Diretoria, em reunião convocada especialmente para esse fim.
 
-**§ 2°**. O mandato dos membros é de 3 (três) anos, permitida a recondução. O mandato se estenderá até a eleição de posse de cada novo membro.
+**§ 2°**. O mandato dos membros é de 1 (um) ano, permitida a recondução. O mandato se estenderá até a eleição de posse de cada novo membro.
 
 **Art. `r (art<-art+1)`**. Compete ao Laboratório de Jurimetria:
 
