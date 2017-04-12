@@ -1,12 +1,10 @@
 ---
 title: "ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA (ABJ) <br/> ESTATUTO SOCIAL"
-output: 
-    bookdown::html_document2: 
-      number_sections: no
+output: md_document
 ---
 
 ```{r echo=FALSE}
-art <- 1
+art <- 0
 ```
 
 # Capitulo I - DENOMINAÇÃO, NATUREZA, SEDE E OBJETIVOS. 
@@ -214,13 +212,14 @@ I) Orientar politicamente os projetos e pesquisas executados pela ABJ.
 
 **Art. `r (art<-art+1)`**. Os casos omissos neste estatuto serão discutidos pela Diretoria.
 
-São Paulo, 02 de Janeiro de 2017.
+```{r echo=FALSE}
+d <- Sys.Date()
+dia <- format(d, '%d')
+mes <- tools::toTitleCase(format(d, '%B'))
+ano <- format(d, '%Y')
+```
+
+São Paulo, `r dia` de `r mes` de `r ano`.
 
 Diretor Executivo
-
-
-
-
-
-
 
