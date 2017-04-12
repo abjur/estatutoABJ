@@ -76,7 +76,7 @@ I) o Conselho Científico;
 I) o Laboratório de Jurimetria; e
 I) a Diretoria.
 
-**Artigo `r (art<-art+1)`**. Não se admite o voto por procuração nas reuniões dos órgãos da ABJ.
+**Artigo `r (art<-art+1)`**. É admitido o voto por procuração nas reuniões dos órgãos da ABJ.
 
 **Artigo `r (art<-art+1)`**. A Assembleia Geral é a instância máxima de deliberação da ABJ e será constituída pelos seus associados em pleno gozo de seus direitos, sendo soberana em suas decisões, respeitadas as disposições deste estatuto, tendo as seguintes atribuições:
 
