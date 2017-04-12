@@ -217,4 +217,4 @@ ano <- format(d, '%Y')
 
 São Paulo, `r dia` de `r mes` de `r ano`.
 
-JULIO ADOLFO ZUCON TRECENTI
+Diretor executivo
