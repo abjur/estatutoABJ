@@ -1,0 +1,34 @@
+---
+output: md_document
+---
+
+```{r echo=FALSE}
+d <- Sys.Date()
+ds <- sapply(c('%d', '%B', '%Y'), function(x) format(d, x))
+ds15 <- sapply(c('%d', '%B', '%Y'), function(x) format(d + 15L, x))
+```
+
+ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA - ABJ
+
+CNPJ/MF nº 13.612.840/0001-57
+
+EDITAL DE CONVOCAÇÃO
+
+ASSEMBLEIA GERAL ORDINÁRIA e EXTRAORDINÁRIA
+
+Ficam convocados os associados se reunirem em Assembleia Geral Ordinária e Extraordinária da Associação Brasileira de Jurimetria -- ABJ ("ABJ"), que se realizará no dia `r ds15[1]` de `r ds15[2]` de `r ds15[3]`, às 10:00hs, em primeira convocação com presença de, no mínimo, de mais da metade de associados honorários quites, ou às 10:30hs, em segunda convocação, com presença de qualquer número de associados honorários quites, na sede social da ABJ, na Rua Gomes de Carvalho, nº 1356, 2º andar, Vila Olímpia, São Paulo, SP, CEP: 04547-005, para examinar, discutir e votarem a seguinte ordem do dia:
+
+1. aprovação as contas referente o exercício de 2016, 
+1. eleição da Diretoria e do Conselho Científico da ABJ, 
+1. a alteração da sede da ABJ, 
+1. o desenvolvimento da categoria de associados Pessoa Jurídica e
+1. alterações no Estatuto Social, que visam facilitar nossa participação em projetos de pesquisa junto ao Governo e entidades privadas
+1. outros eventuais assuntos de interesse dos associados.
+
+O presente edital será encaminhado aos associados por e-mail, bem como será disponibilizado no site da ABJ (www.abj.org.br), nos termos do Estatuto Social.
+
+São Paulo, `r ds[1]` de `r ds[2]` de `r ds[3]`.
+
+Marcelo Guedes Nunes
+
+Presidente
