@@ -15,7 +15,7 @@ art <- 0
 
 I) Incentivar e divulgar a jurimetria aos seus associados e ao público em geral.
 
-I) Incentivar a utilização do método científico na elaboração e avaliação de políticas públicas.
+I) Incentivar a utilização da jurimetria na elaboração e avaliação de políticas públicas.
 
 I) Realizar, promover e participar de cursos, palestras, seminários, conferências, _workshops_, congressos e qualquer forma de reunião que objetive a difusão da jurimetria.
 
@@ -35,37 +35,42 @@ I) Colaborar com entidades públicas e privadas para melhorar administração de
 
 **Artigo `r (art<-art+1)`°**. A ABJ mantém as seguintes categorias de associados:
 
-I) associado honorário,
-I) associado pessoa física e
-I) associado pessoa jurídica.
+I) associado pleno,
+I) associado simples pessoa física,
+I) associado simples pessoa jurídica e
+I) associado honorário.
 
 **Artigo `r (art<-art+1)`°**. São direitos dos associados, desde que em dia com seus deveres estatutários:
 
 I) receber comunicações sobre as atividades da ABJ e
 I) solicitar seu desligamento da ABJ a qualquer tempo, desde que não esteja em débito com suas obrigações associativas.
 
-**Parágrafo 1°**. Nas deliberações das assembleias da ABJ, somente os associados honorários terão
+**Parágrafo 1°**. Nas deliberações das assembleias da ABJ, somente os associados plenos terão
 direito a votar e serem votados.
 
-**Parágrafo 2°**. Não haverá distribuição de lucros ou resultados aos associados.
+**Parágrafo 2**. O Conselho Científico, após parecer da Diretoria, poderá conceder o título de associado honorário a qualquer associado em reconhecimento a relevantes contribuições prestadas a jurimetria. 
+
+**Parágrafo 3°**. Não haverá distribuição de lucros ou resultados aos associados.
 
 **Artigo `r (art<-art+1)`°**. São deveres dos associados:
 
 I) cumprir e fazer cumprir o presente estatuto e as decisões da Assembleia Geral e
-I) honrar pontualmente com as contribuições associativas da ABJ.
+I) honrar pontualmente com as contribuições associativas da ABJ, quando devidas.
 
 **Artigo `r (art<-art+1)`°**. A admissão de novos associados dependerá do atendimento do Código de Conduta da ABJ e:
 
-I) no caso de associado honorário, de aprovação da Diretoria e de aprovação de 2/3 dos associados honorários quites e,
-I) no caso de associado pessoa jurídica ou associado pessoa física, de aprovação da Diretoria por maioria simples.
+I) no caso de associado pleno, após parecer favorável da Diretoria, de aprovação do Conselho Científico e de aprovação de 2/3 dos associados plenos quites e,
+I) no caso de associados simples, de aprovação do Conselho Científico.
 
-**Artigo `r (art<-art+1)`°**. A Diretoria deverá considerar as solicitações de interessados em se tornarem associados e dar ciência de sua decisão aos solicitantes. 
+**Artigo `r (art<-art+1)`°**. O Conselho Científico deverá considerar as solicitações de interessados em se tornarem associados e dar ciência de sua decisão aos solicitantes. 
 
 **Parágrafo Único**. Se a solicitação for recusada, o candidato poderá apresentar nova solicitação após o período mínimo de 6 (seis) meses.
 
-**Artigo `r (art<-art+1)`**. Os associados poderão ser excluídos do quadro social por justa causa em decisão da Diretoria por maioria simples.
+**Artigo `r (art<-art+1)`**. Os associados poderão ser excluídos do quadro social por justa causa em decisão do Conselho Científico, após ouvida a Diretoria.
 
-**Artigo `r (art<-art+1)`**. Os associados pagarão anuidades à ABJ no valor e condições fixadas pela Diretoria.
+**Parágrafo Único**. Caso se ausentem de duas ou mais assembleias consecutivas, o Conselho Científico poderá requalificar o associado pleno para a condição de associado simples. 
+
+**Artigo `r (art<-art+1)`**. Os associados pagarão contribuições à ABJ no valor e condições fixadas pela Diretoria, ouvido o Conselho Científico.
 
 # Capítulo III - DOS ÓRGÃOS.
 
@@ -78,24 +83,24 @@ I) a Diretoria.
 
 **Artigo `r (art<-art+1)`**. É admitido o voto por procuração nas reuniões dos órgãos da ABJ.
 
-**Artigo `r (art<-art+1)`**. A Assembleia Geral é a instância máxima de deliberação da ABJ e será constituída pelos seus associados em pleno gozo de seus direitos, sendo soberana em suas decisões, respeitadas as disposições deste estatuto, tendo as seguintes atribuições:
+**Artigo `r (art<-art+1)`**. A Assembleia Geral é a instância máxima de deliberação da ABJ e será constituída pelos seus associados plenos gozo de seus direitos, sendo soberana em suas decisões, respeitadas as disposições deste estatuto, tendo as seguintes atribuições:
 
 I) fiscalizar os membros da ABJ na consecução de seus objetivos,
-I) eleger e destituir administradores,
+I) eleger e destituir os Diretores e os membros do Conselho Científico,
 I) deliberar sobre a previsão orçamentária e a prestação de contas,
-I) estabelecer o valor das mensalidades dos associados,
+I) estabelecer o valor e a periodicidade das contribuições dos associados, ouvidos o Conselho Científico e a Diretoria,
 I) deliberar quanto à compra e venda de imóveis da ABJ,
 I) alterar, no todo ou em parte, o presente estatuto social,
 I) deliberar quanto à dissolução da ABJ e
 I) decidir, em última instância, sobre todo e qualquer assunto de interesse social, bem como sobre os casos omissos no presente estatuto.
 
-**Parágrafo 1°**. A Assembleia Geral será instalada, em primeira convocação, com a presença de, no mínimo, mais da metade dos associados honorários quites. Em segunda convocação, a Assembleia será instalada com qualquer número de associados honorários quites. São válidas as deliberações aprovadas pela maioria dos associados honorários quites presentes à Assembleia.
+**Parágrafo 1°**. A Assembleia Geral será instalada, em primeira convocação, com a presença de, no mínimo, mais da metade dos associados plenos quites. Em segunda convocação, a Assembleia será instalada com qualquer número de associados plenos quites. São válidas as deliberações aprovadas pela maioria dos associados plenos quites presentes à Assembleia.
 
 **Parágrafo 2°**. As convocações dos associados para as reuniões da Assembleia Geral serão feitas por meio do envio de mensagem por correio eletrônico e aviso disponibilizado no site da ABJ.
 
 **Artigo `r (art<-art+1)`**. A Assembleia Geral Ordinária realizar-se-á uma vez por ano, para votar a prestação de contas da Diretoria e demais assuntos constantes da pauta.
 
-**Artigo `r (art<-art+1)`**. A Diretoria da ABJ compõe-se de um diretor executivo, um diretor financeiro e um diretor social, eleitos pela Assembleia Geral.
+**Artigo `r (art<-art+1)`**. A Diretoria da ABJ compõe-se de um diretor executivo, um diretor financeiro e um diretor técnico, eleitos pela Assembleia Geral.
 
 **Parágrafo 1°**. O mandato da Diretoria é de 3 (três) anos, permitida a recondução. O mandato se estenderá até a eleição e posse dos novos diretores.
 
@@ -105,16 +110,13 @@ I) decidir, em última instância, sobre todo e qualquer assunto de interesse so
 
 I) respeitar e fazer cumprir o presente estatuto,
 I) cumprir com os objetivos da ABJ,
-I) executar as deliberações da Assembleia Geral,
-I) deliberar sobre admissão e exclusão de associados,
+I) executar as deliberações da Assembleia Geral e do Conselho Científico,
+I) emitir pareceres sobre admissão e exclusão de associados,
 I) submeter à Assembleia Geral, anualmente, a prestação de contas,
-I) fixar o valor de anuidades e taxas, se for o caso,
+I) fixar o valor e condições de pagamento das contribuições dos associados, se for o caso,
 I) nomear ou dissolver comissões e grupos de trabalho,
-I) aprovar o orçamento anual da ABJ,
-I) escolher os membros do Conselho Científico,
-I) aprovar os projetos de pesquisa nos quais a ABJ tomará parte,
-I) aprovar propostas e projetos e
-I) aprovar convênios e parcerias da ABJ com outras entidades, públicas ou privadas.
+I) aprovar o orçamento anual da ABJ, ouvido o Conselho Científico
+I) aprovar propostas, projetos, convênios e parcerias da ABJ com outras entidades, públicas ou privadas, ouvido o Conselho Científico.
 
 **Artigo `r (art<-art+1)`**. Compete ao diretor executivo:
 
@@ -125,6 +127,7 @@ I) assinar os cheques, contratos e demais documentos obrigacionais da ABJ, junta
 I) comparecer às reuniões do Conselho Científico.
 I) orientar as atividades do Laboratório de Jurimetria.
 I) indicar um membro da Diretoria para substituí-lo em caso de impossibilidade ou impedimento.
+I) promover a divulgação dos eventos e ações da ABJ,
 I) proferir voto de qualidade, no caso de empate nas deliberações do Conselho Científico ou da Diretoria.
 
 **Parágrafo único**. Por meio de procuração, o diretor executivo poderá delegar ao diretor financeiro a atribuição de isoladamente abrir conta bancária, assinar os cheques e ordens de pagamento da ABJ.
@@ -139,11 +142,7 @@ I) providenciar a elaboração dos balanços da ABJ,
 I) organizar a cobrança de contribuiçõs dos associados e
 I) assinar cheques, contratos e demais documentos obrigacionais da ABJ, juntamente com o diretor executivo.
 
-**Artigo `r (art<-art+1)`**. Compete ao diretor social:
-
-I) promover a divulgação dos eventos e ações da ABJ,
-I) gerenciar as atividades de comunicação da ABJ e
-I) identificar oportunidades de colaboração da ABJ com outras entidades, públicas e privadas.
+**Artigo `r (art<-art+1)`**. Compete ao diretor técnico as mesmas atribuições do Coordenador do Laboratório de Jurimetria.
 
 **Artigo `r (art<-art+1)`**. As reuniões da Diretoria serão convocadas pelo diretor executivo da ABJ.
 
@@ -156,20 +155,21 @@ I) identificar oportunidades de colaboração da ABJ com outras entidades, públ
 **Artigo `r (art<-art+1)`**. Compete ao Conselho Científico:
 
 I) orientar academicamente os eventos e pesquisas executados pela ABJ,
-I) opinar sobre matérias de sua competência que a Diretoria ou o Laboratório de Jurimetria submeterem e
+I) deliberar a admissão, exclusão e a requalificação de associados, ouvida a Diretoria,
+I) emitir parecer a respeito das propostas, projetos, convênios e parcerias da ABJ com outras entidades, públicas ou privadas,
+I) emitir parecer sobre o orçamento anual da ABJ,
+I) opinar sobre matérias de sua competência que a Diretoria ou o Laboratório de Jurimetria submeterem,
+I) emitir parecer sobre a fixação do valor e condições de pagamento das contribuições dos associados
+I) emitir parecer sobre a indicação do Coordenador do Laboratório de Jurimetria e
 I) respeitar e fazer cumprir o presente estatuto.
 
-**Artigo `r (art<-art+1)`**. As reuniões do Conselho Científico serão presididas pelo conselheiro presidente, nomeado pelo diretor executivo, para um mandato de 3 (três) anos, ou por quem este expressamente indicar em caso de sua ausência.
+**Artigo `r (art<-art+1)`**. As reuniões do Conselho Científico serão presididas pelo conselheiro presidente, escolhido pelos demais conselheiros, para um mandato de 3 (três) anos.
 
 **Parágrafo único**. As deliberações do Conselho Científico serão tomadas pela maioria simples dos conselheiros presentes à reunião, com quórum de instalação e deliberação mínimo de 3 (três) conselheiros.
 
 **Artigo `r (art<-art+1)`**. As reuniões do Conselho Científico serão convocadas pelo conselheiro presidente ou pelo diretor executivo da ABJ.
 
-**Artigo `r (art<-art+1)`**. O Laboratório de Jurimetria compõe-se de no mínimo 1 (um) e no máximo 10 (dez) membros.
-
-**Parágrafo 1°**. A nomeação dos membros dar-se-á pela Diretoria, em reunião convocada especialmente para esse fim.
-
-**Parágrafo 2°**. O mandato dos membros é de 1 (um) ano, permitida a recondução. O mandato se estenderá até a eleição de posse de cada novo membro.
+**Parágrafo único**. O mandato dos membros é de 1 (um) ano, permitida a recondução. O mandato se estenderá até a eleição de posse de cada novo membro.
 
 **Artigo `r (art<-art+1)`**. Compete ao Laboratório de Jurimetria:
 
@@ -178,7 +178,7 @@ I) criar e extinguir grupos temáticos da ABJ,
 I) informar os membros da ABJ a respeito das questões técnicas relativas aos projetos, convênios e parcerias da ABJ e
 I) respeitar e fazer cumprir o presente estatuto.
 
-**Artigo `r (art<-art+1)`**. As reuniões do Laboratório de Jurimetria serão presididas por seu coordenador, nomeado pelo diretor executivo, para um mandato de 3 (três) anos, ou por quem este expressamente indicar em caso de sua ausência.
+**Artigo `r (art<-art+1)`**. As reuniões do Laboratório de Jurimetria serão presididas por seu coordenador, nomeado pelo diretor executivo após ouvido o Conselho Científico, para um mandato de 3 (três) anos, ou por quem este expressamente indicar em caso de sua ausência.
 
 **Parágrafo Único**. As deliberações do Laborarório de Jurimetria serão tomadas pela maioria simples dos membros presentes à reunião.
 
