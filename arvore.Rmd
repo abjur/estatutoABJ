@@ -1,0 +1,148 @@
+---
+title: "ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA (ABJ) <br/> ESTATUTO SOCIAL"
+output: md_document
+---
+
+# DENOMINACAO
+
+1. Endereço e nome
+1. Finalidade (6)
+
+# QSA
+
+1. n_associados = inf
+1. não respondem subsidiariamente
+1. categorias
+    I) pleno,
+    I) simples pessoa física,
+    I) simples pessoa jurídica e
+    I) honorário.
+1. direitos (2)
+    I) receber comunicações
+    I) solicitar desligamento
+    1. direito de voto (pleno e honorário)
+    1. conselho cientifico cria associado honorário. 
+    1. lucros ou resultados = not
+1. deveres dos associados:
+    I) cumprir estatuto
+    I) honrar contribuições associativas
+1. admissão: código de conduta e atender (2)
+    I) associado pleno: diretoria + CC + 2/3 associados plenos
+    I) associados simples: CC.
+1. solicitacoes: CC. 
+    1. recusa de associacao.
+1. exclusao: CC + diretoria.
+    1. reconducao associado pleno -> simples. 
+1. contribuições: diretoria + CC.
+
+# ORGAOS
+
+1. órgãos:
+    I) Assembleia Geral;
+    I) Diretoria;
+    I) Conselho Científico; e
+    I) Laboratório de Jurimetria.
+1. admitido voto por procuração.
+
+## AG
+
+1. associados plenos, competências (8):
+    I) fiscalizar,
+    I) eleger e destituir,
+    I) deliberar sobre prestação de contas,
+    I) estabelecer o valor e a periodicidade das contribuições,
+    I) deliberar quanto à compra e venda de imóveis,
+    I) alterar o estatuto social,
+    I) deliberar quanto à dissolução
+    I) decidir os casos omissos
+    1. instalacao.
+    1. convocacao.
+1. periodicidade.
+
+## Diretoria
+
+1. competetências (9):
+    I) respeitar estatuto,
+    I) cumprir objetivos da ABJ,
+    I) executar as deliberações da AG e do CC,
+    I) emitir pareceres sobre admissão e exclusão de associados,
+    I) submeter prestação de contas,
+    I) fixar o valor e condições de pagamento das contribuições dos associados
+    I) nomear ou dissolver comissões e grupos de trabalho,
+    I) aprovar o orçamento anual
+    I) aprovar propostas, projetos, convênios e parcerias
+1. composição: DP, SG, DD, DF.
+    1. mandato.
+    1. deliberações.
+1. competências DP:
+    I) convocar e presidir as reuniões.
+    I) comparecer às reuniões.
+    I) proferir voto de qualidade.
+1. competências SG:
+    I) expedir comunicações e ofícios.
+    I) orientar as atividades do LAB.
+    I) promover a divulgação dos eventos e ações da ABJ
+    1. delegar abertura de conta
+1. competências DP + SG:
+    I) representar ABJ
+    I) indicar substituto.
+    I) assinar os cheques, contratos e demais documentos.
+1. competências DF:
+    I) administrar patrimônio e finanças,
+    I) auxiliar o LAB no gerenciamento de projetos,
+    I) supervisionar a escrituração contábil,
+    I) elaborar a proposta de previsão orçamentária anual,
+    I) providenciar a elaboração dos balanços da ABJ,
+    I) organizar a cobrança de contribuições dos associados e
+1. competências DD:
+    I) planejar e coordenar as pesquisas,
+    I) criar e extinguir grupos temáticos
+    I) auxiliar nas questões técnicas dos projetos, convênios e parcerias
+1. reuniões.
+
+## CC
+
+1. composição.
+    1. mandato.
+1. competências CC:
+    I) orientar academicamente
+    I) deliberar a admissão, exclusão e a requalificação de associados
+    I) emitir parecer a respeito das propostas, projetos, convênios e parcerias
+    I) emitir parecer sobre o orçamento
+    I) opinar sobre matérias do LAB e da Diretoria
+    I) emitir parecer sobre contribuições dos associados
+    I) emitir parecer sobre a indicação do Coordenador do LAB
+1. reuniões.
+    1. deliberações
+    1. reuniões presididas.
+1. mandato
+
+## LAB
+
+1. competências LAB: igual DD
+1. reuniões.
+    1. deliberações.
+1. GT criação.
+1. GT extinção.
+
+## Geral
+
+1. interrupção de mandatos.
+
+# PATRIMONIO.
+
+1. patrimonio.
+
+# EXTINÇÃO
+
+1. duração
+    1. destinação do patrimônio.
+
+# MODIFICACAO.
+
+1. AGOE
+
+# DISPOSIÇÕES GERAIS
+
+1. foro.
+1. casos omissos - diretoria.
