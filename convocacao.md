@@ -8,7 +8,7 @@ ASSEMBLEIA GERAL ORDINÁRIA e EXTRAORDINÁRIA
 
 Ficam convocados os associados se reunirem em Assembleia Geral Ordinária
 e Extraordinária da Associação Brasileira de Jurimetria -- ABJ ("ABJ"),
-que se realizará no dia 27 de abril de 2017, às 10:00hs, em primeira
+que se realizará no dia 16 de junho de 2017, às 10:00hs, em primeira
 convocação com presença de, no mínimo, de mais da metade de associados
 honorários quites, ou às 10:30hs, em segunda convocação, com presença de
 qualquer número de associados honorários quites, na sede social da ABJ,
@@ -29,7 +29,7 @@ O presente edital será encaminhado aos associados por e-mail, bem como
 será disponibilizado no site da ABJ (www.abj.org.br), nos termos do
 Estatuto Social.
 
-São Paulo, 12 de abril de 2017.
+São Paulo, 01 de junho de 2017.
 
 Marcelo Guedes Nunes
 

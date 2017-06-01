@@ -1,6 +1,6 @@
 ---
 title: "ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA (ABJ) <br/> ESTATUTO SOCIAL"
-output: md_document
+output: html_document
 ---
 
 # DENOMINACAO
@@ -71,7 +71,7 @@ output: md_document
     I) nomear ou dissolver comissões e grupos de trabalho,
     I) aprovar o orçamento anual
     I) aprovar propostas, projetos, convênios e parcerias
-1. composição: DP, SG, DD, DF.
+1. composição: DP, SG, DT, DF.
     1. mandato.
     1. deliberações.
 1. competências DP:
@@ -94,7 +94,7 @@ output: md_document
     I) elaborar a proposta de previsão orçamentária anual,
     I) providenciar a elaboração dos balanços da ABJ,
     I) organizar a cobrança de contribuições dos associados e
-1. competências DD:
+1. competências DT:
     I) planejar e coordenar as pesquisas,
     I) criar e extinguir grupos temáticos
     I) auxiliar nas questões técnicas dos projetos, convênios e parcerias
@@ -119,7 +119,7 @@ output: md_document
 
 ## LAB
 
-1. competências LAB: igual DD
+1. competências LAB: igual DT
 1. reuniões.
     1. deliberações.
 1. GT criação.
