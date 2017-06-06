@@ -220,7 +220,7 @@ I) emitir parecer sobre a indicação do Coordenador do Laboratório de Jurimetr
 
 **Artigo `r (art<-art+1)`**. O presente estatuto poderá ser modificado, no todo ou em parte, a qualquer tempo, por deliberação aprovada pela maioria simples dos associados honorários quites, presentes em Assembleia Geral Extraordinária especialmente convocada para este fim.
 
-# Capítulo VI - DAS DISPOSIÇÕES GERAIS.
+# Capítulo VII - DAS DISPOSIÇÕES GERAIS.
 
 **Artigo `r (art<-art+1)`**. O foro para dirimir quaisquer pendências ou controvérsias da ABJ será o da Comarca da Capital de São Paulo, renunciando-se a qualquer outro por mais privilegiado que seja.
 
