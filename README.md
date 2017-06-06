@@ -301,7 +301,7 @@ parte, a qualquer tempo, por deliberação aprovada pela maioria simples
 dos associados honorários quites, presentes em Assembleia Geral
 Extraordinária especialmente convocada para este fim.
 
-Capítulo VI - DAS DISPOSIÇÕES GERAIS.
+Capítulo VII - DAS DISPOSIÇÕES GERAIS.
 =====================================
 
 **Artigo 34**. O foro para dirimir quaisquer pendências ou controvérsias
