@@ -2,10 +2,9 @@
 
 **Artigo 1°**. A Associação Brasileira de Jurimetria - ABJ é uma
 associação civil sem fins lucrativos, sujeito de direito privado, com
-sede na Avenida das Nações Unidas, nº 12.399, 8º andar, conjunto 84 A,
-Edifício Landmark Nações Unidas, Cidade Monções, São Paulo/SP, CEP
-04.578-000, regida pelo presente estatuto e demais disposições legais
-que lhe forem aplicáveis.
+sede na Rua Bela Cintra, nº 768, 10º andar, conjunto 102, Edifício
+Panamerica, Consolação, São Paulo/SP, CEP 01415-002, regida pelo
+presente estatuto e demais disposições legais que lhe forem aplicáveis.
 
 **Artigo 2°**. A ABJ tem como finalidade:
 
@@ -359,7 +358,7 @@ qualquer outro por mais privilegiado que seja.
 **Artigo 35**. Os casos omissos neste estatuto serão discutidos pela
 Diretoria.
 
-São Paulo, 23 de Julho de 2021.
+São Paulo, 16 de Maio de 2022.
 
 Diretor presidente
 
